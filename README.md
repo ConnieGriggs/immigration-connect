@@ -1,3 +1,5 @@
+The legal office of attorney José A. Barbeito, located in McAllen, Texas, is dedicated to the representation of individuals and companies in various business matters and the United States Immigration Law.
+
 # immigration-connect
 
 ## Project Description
